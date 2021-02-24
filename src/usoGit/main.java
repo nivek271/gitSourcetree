@@ -8,5 +8,6 @@ class main {
     userShop nada;
     nada = new userShop();
     nada.hola();
+    nada.hola();
     }
 }
